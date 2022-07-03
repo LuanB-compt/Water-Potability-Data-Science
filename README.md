@@ -1,4 +1,4 @@
-# DATA SCIENCE APLICADA PARA CLASSIFCAÇÃO DE POTABILIDADE DA ÁGUA
+# **DATA SCIENCE APLICADA PARA CLASSIFCAÇÃO DE POTABILIDADE DA ÁGUA**
 Segue em anexo um resumo do projeto no Youtube: [AQUI](https://youtu.be/Q05ymmLPCh4)
 
 ### PRIMEIRO NOTEBOOK: analise_de_dados_water.ipynb
